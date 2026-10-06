@@ -1,0 +1,31 @@
+Date,Product,Category,Region,Units Sold,Unit Price,Revenue,Profit,Profit Margin
+2026-09-01,Laptop Stand,Accessories,North,12,1800,21600,5400,0.25
+2026-09-02,Wireless Mouse,Accessories,South,25,750,18750,4687.5,0.25
+2026-09-03,Keyboard,Accessories,East,18,1200,21600,4320,0.2
+2026-09-04,Monitor 24in,Electronics,West,8,10500,84000,12600,0.15
+2026-09-05,USB Hub,Accessories,North,32,650,20800,6240,0.3
+2026-09-06,Webcam,Electronics,South,14,3200,44800,8960,0.2
+2026-09-07,Headphones,Electronics,East,21,2400,50400,12600,0.25
+2026-09-08,Laptop Bag,Accessories,West,16,2200,35200,8800,0.25
+2026-09-09,SSD 1TB,Storage,North,7,7200,50400,10080,0.2
+2026-09-10,Power Bank,Accessories,South,27,1600,43200,12960,0.3
+2026-09-11,Mechanical Keyboard,Accessories,East,10,4800,48000,12000,0.25
+2026-09-12,Monitor 27in,Electronics,West,6,16500,99000,14850,0.15
+2026-09-13,HDMI Cable,Accessories,North,40,500,20000,7000,0.35
+2026-09-14,Bluetooth Speaker,Electronics,South,15,2800,42000,8400,0.2
+2026-09-15,External HDD,Storage,East,9,6500,58500,11700,0.2
+2026-09-16,Laptop Stand,Accessories,West,20,1800,36000,9000,0.25
+2026-09-17,Wireless Mouse,Accessories,North,35,750,26250,6562.5,0.25
+2026-09-18,Webcam,Electronics,South,11,3200,35200,7040,0.2
+2026-09-19,Keyboard,Accessories,East,24,1200,28800,5760,0.2
+2026-09-20,SSD 1TB,Storage,West,5,7200,36000,7200,0.2
+2026-09-21,Headphones,Electronics,North,19,2400,45600,11400,0.25
+2026-09-22,USB Hub,Accessories,South,29,650,18850,5655,0.3
+2026-09-23,Monitor 24in,Electronics,East,9,10500,94500,14175,0.15
+2026-09-24,Laptop Bag,Accessories,West,13,2200,28600,7150,0.25
+2026-09-25,Power Bank,Accessories,North,31,1600,49600,14880,0.3
+2026-09-26,External HDD,Storage,South,8,6500,52000,10400,0.2
+2026-09-27,Bluetooth Speaker,Electronics,East,17,2800,47600,9520,0.2
+2026-09-28,Mechanical Keyboard,Accessories,West,12,4800,57600,14400,0.25
+2026-09-29,HDMI Cable,Accessories,North,45,500,22500,7875,0.35
+2026-09-30,Monitor 27in,Electronics,South,7,16500,115500,17325,0.15
